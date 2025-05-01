@@ -1,0 +1,14 @@
+# Compiled object files
+*.o
+
+# Executable
+teller
+
+# Editor swap/temp files
+*~
+*.swp
+
+# Client/account data (optional, if you don’t want to commit runtime data)
+client-info
+account-info
+staff
